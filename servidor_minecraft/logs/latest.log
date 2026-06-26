@@ -1,0 +1,45 @@
+[18:11:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:11:48] [ServerMain/INFO]: No existing world data, creating new world
+[18:11:49] [ServerMain/INFO]: Loaded 1337 recipes
+[18:11:49] [ServerMain/INFO]: Loaded 1448 advancements
+[18:11:49] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[18:11:49] [Server thread/INFO]: Loading properties
+[18:11:49] [Server thread/INFO]: Default game type: SURVIVAL
+[18:11:49] [Server thread/INFO]: Generating keypair
+[18:11:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:11:49] [Server thread/INFO]: Using epoll channel type
+[18:11:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:11:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:11:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:11:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:11:49] [Server thread/INFO]: Preparing level "world"
+[18:11:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:11:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[18:11:56] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[18:11:57] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[18:11:57] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[18:11:58] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[18:11:58] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[18:11:59] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[18:11:59] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[18:12:00] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[18:12:00] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[18:12:00] [Server thread/INFO]: Time elapsed: 4592 ms
+[18:12:00] [Server thread/INFO]: Done (11.143s)! For help, type "help"
+[18:13:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:13:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:13:27] [Server thread/INFO]: <--[HERE]
+[18:17:10] [Server thread/INFO]: Rich172505[/100.98.224.92:62919] logged in with entity id 25 at (-6.5, 71.0, -4.5)
+[18:17:10] [Server thread/INFO]: Rich172505 joined the game
+[18:19:02] [Server thread/INFO]: le_arquen[/100.108.172.69:65114] logged in with entity id 757 at (4.5, 66.0, -4.5)
+[18:19:02] [Server thread/INFO]: le_arquen joined the game
+[18:19:48] [Server thread/INFO]: Rich172505 has made the advancement [Stone Age]
+[18:21:01] [Server thread/INFO]: Rich172505 has made the advancement [Getting an Upgrade]
+[18:27:07] [Server thread/INFO]: Rich172505 has made the advancement [Sweet Dreams]
+[18:27:17] [Server thread/INFO]: le_arquen has made the advancement [Sweet Dreams]
+[18:28:08] [Server thread/INFO]: le_arquen has made the advancement [Stone Age]
+[18:30:33] [Server thread/INFO]: le_arquen lost connection: Timed out
+[18:30:33] [Server thread/INFO]: le_arquen left the game
+[18:30:33] [Server thread/WARN]: handleDisconnection() called twice
+[18:31:01] [Server thread/INFO]: le_arquen[/100.108.172.69:53517] logged in with entity id 3865 at (64.748242926737, 71.41999998688698, 294.14976182272756)
+[18:31:01] [Server thread/INFO]: le_arquen joined the game
