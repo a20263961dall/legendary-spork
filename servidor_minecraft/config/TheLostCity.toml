@@ -1,0 +1,6 @@
+#Minimum distance between two neighboring attempts.
+CitySeparation = 32
+#Average distance between two neighboring generation attempts.
+CitySpacing = 64
+#Defines the list of biomes where cities can spawn.
+biomes = ["plains","snowy_plains", "sunflower_plains"]
